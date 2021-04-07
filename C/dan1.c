@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <math.h>
 
-int create_hist( float _arrayIn[], int _usableElements, int _arrayOut[15] ) { //Check for how many elements
+int create_hist( double _arrayIn[], int _usableElements, int _arrayOut[15] ) { //Check for how many elements
 	// TODO: INSERT CODE HERE
     // Clear the array
     for( int counter = 0; counter <= 15 ; counter++ ){
@@ -15,10 +15,9 @@ int create_hist( float _arrayIn[], int _usableElements, int _arrayOut[15] ) { //
 
     // Making the hisogram
     for ( int counter = 0; counter <= 15 ; counter++){
-        int index = floor(_arrayIn(counter));
+        int index = floor( _arrayIn[counter]) ;
         _arrayOut[index + 1]++;
-    }
-
+    } 
     return _arrayOut[15];
 }
 
