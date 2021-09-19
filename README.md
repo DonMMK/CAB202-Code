@@ -19,7 +19,7 @@
 - open source can use/contribute to it
 ---
 
-![](microcontroller.png)
+
 
 # Unit Name
 This repository contains the code for Unit_Code which is a part of the core/optional curriculum of the Computer and Software Systems Major/Robotics Minor. 
