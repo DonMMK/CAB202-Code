@@ -1,5 +1,5 @@
 # Microprocessors and Digital Systems
-This repository contains the code for CAB202 which is a part of the core curriculum of the Computer and Software Systems Major/Robotics Minor. 
+This repository contains the code for CAB202 which is a part of the core curriculum of the Computer and Software Systems Major. 
 
 ### Topics Covered 
 Week 1: First C programs, Variables, Standard input/output  
