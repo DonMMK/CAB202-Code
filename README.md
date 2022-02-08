@@ -25,4 +25,4 @@ Week 12: Summary - Q & A
 
 
 ### Notes about the Repository/Unit
-For more notes and code refer [Pre-requisite CAB202 Content](https://github.com/DonMMK/Embedded-Systems-EGH456/tree/main/PreRequisite/CAB202)
+For more notes and code refer [CAB202 as a Pre-requisite](https://github.com/DonMMK/Embedded-Systems-EGH456/tree/main/PreRequisite/CAB202)
